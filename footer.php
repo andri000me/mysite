@@ -1,0 +1,1 @@
+<footer>Copyright &copy; r4ndiel.com</footer>

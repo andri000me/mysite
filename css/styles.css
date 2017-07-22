@@ -1,0 +1,97 @@
+
+div.container {
+    width: 100%;
+    
+}
+
+div.container-body{
+    width: 80%;
+    min-height: 700px;
+    background-color: #44635c;
+
+    margin: auto;
+}
+header{
+    padding: 1em;
+    color: white;
+    background-color: #009b5a;
+    clear: left;
+    text-align: center;
+}
+footer{
+    padding: 1em;
+    color: white;
+    background-color: #009b5a;
+    clear: left;
+    text-align: center;
+    margin: auto;   
+}
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    color: white;
+}
+   
+nav ul a {
+    text-decoration: none;
+    padding: auto;
+    display: block;
+    float: left;
+    position: relative;
+    color: white;
+}
+
+nav ul a:hover,
+nav ul a:selected,
+nav ul a:active{
+    color: lightblue;
+}
+
+article {
+    background-color: rgba(237, 253, 241, 0.64);
+    margin-left: 170px;
+    
+    min-height: 720px;
+    padding: 1em;
+    overflow: hidden;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.content{
+    background-color: rgba(237, 253, 241, 0.64);
+    margin-left: 170px;
+    
+    min-height: 720px;
+    padding: 1em;
+    overflow: hidden;
+}
+
+header a{
+    text-decoration: none;
+    color: white!important;
+}
+

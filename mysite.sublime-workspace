@@ -1,0 +1,256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-muted"
+			],
+			[
+				"tahun",
+				"tahunbuat"
+			],
+			[
+				"tahu",
+				"tahunmasuk"
+			],
+			[
+				"tempat",
+				"tempatbuat"
+			],
+			[
+				"text-f",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"text-st",
+				"text-decoration-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/mysite"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/veno/search.php",
+		"/C/xampp/htdocs/veno/index.php",
+		"/C/xampp/htdocs/veno/ringkasan.php",
+		"/C/xampp/htdocs/mysite/display.php",
+		"/C/xampp/htdocs/mysite/insert.php",
+		"/C/xampp/htdocs/mysite/execute-insert.php",
+		"/C/xampp/htdocs/KETUJUH/css/styles.css",
+		"/C/xampp/htdocs/KETUJUH/form_tambah_koleksi.php",
+		"/D/RANDY/Visual Renpy/Kakutus/game/script.rpy",
+		"/D/RANDY/Visual Renpy/Kakutus/game/gui.rpy",
+		"/C/xampp/htdocs/mysite/delete-user.php",
+		"/C/xampp/htdocs/mysite/login-page.php",
+		"/C/xampp/htdocs/mysite/css/styles.css",
+		"/D/RANDY/Visual Renpy/Kakutus/game/options.rpy",
+		"/D/RANDY/Visual Renpy/Test/game/options.rpy",
+		"/C/xampp/htdocs/mysite/execute-updateuser.php",
+		"/C/xampp/htdocs/mysite/footer.php",
+		"/C/xampp/htdocs/mysite/header.php",
+		"/C/xampp/htdocs/mysite/index.php",
+		"/C/xampp/htdocs/mysite/login.php",
+		"/C/xampp/htdocs/mysite/left-sidebar.php",
+		"/C/xampp/htdocs/mysite/tentang.php",
+		"/C/xampp/htdocs/mysite/top-bar.php",
+		"/C/xampp/htdocs/mysite/update-user.php",
+		"/D/RANDY/Visual Renpy/Test/game/screens.rpy",
+		"/D/RANDY/Visual Renpy/Test/game/script.rpy",
+		"/C/Users/MejaDesain/Downloads/localhost.sql",
+		"/C/xampp/htdocs/anastasia/lp-config-sample.php",
+		"/C/xampp/htdocs/veno/config/func.php",
+		"/C/xampp/htdocs/veno/login.php",
+		"/C/xampp/htdocs/veno/footer.php",
+		"/C/xampp/htdocs/mysite/edit-user.php",
+		"/D/RANDY/Visual Renpy/Jiwind/game/gui.rpy",
+		"/D/RANDY/Visual Renpy/Jiwind/game/options.rpy",
+		"/D/RANDY/Visual Renpy/Jiwind/game/screens.rpy",
+		"/D/RANDY/Visual Renpy/Jiwind/game/script.rpy"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PrintDiv",
+			"text-muted",
+			"label",
+			"text-muted"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mysite.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
